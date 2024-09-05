@@ -1,0 +1,16 @@
+.input-box {
+  width: 100%;
+}
+
+.container-input {
+  text-align: left;
+}
+
+.row-input {
+  align-items: center;
+}
+
+.add-btn {
+  width: 73px;
+  margin-bottom: 5px;
+}

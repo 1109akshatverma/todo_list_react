@@ -1,0 +1,10 @@
+.error {
+  color: green;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italic;
+}
